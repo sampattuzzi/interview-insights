@@ -1,0 +1,17 @@
+Note, Value, Id, Code
+Uses pact, 1, johnf, accountability>uses-product
+Uses fitbit, 2, johnf, tracking>uses-product
+Has read "The Power of Habit", 1, jake, challenges>passive>reading
+Shares with his wife, 1, jake, accountability>wife
+Asked GF to ring in the morning, 2, johnf, accountability>wife
+, , johnf, demo>job>entrepreneur
+, , johnf, demo>job>creative>blogger
+, , johnf, demo>job>creative>writer
+, , johnf, demo>habit>diet
+, , johnf, demo>habit>exercise
+, , jake, demo>job>coach
+, , jake, demo>job>entrepreneur
+, , jake, demo>habit>writing
+, , jake, demo>habit>wakeing-up
+, 38, johnf, demo>age
+, 43, jake, demo>age
