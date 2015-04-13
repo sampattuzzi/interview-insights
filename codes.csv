@@ -1,17 +1,46 @@
 Note, Value, Id, Code
-Uses pact, 1, johnf, accountability>uses-product
-Uses fitbit, 2, johnf, tracking>uses-product
 Has read "The Power of Habit", 1, jake, challenges>passive>reading
-Shares with his wife, 1, jake, accountability>wife
-Asked GF to ring in the morning, 2, johnf, accountability>wife
-, , johnf, demo>job>entrepreneur
-, , johnf, demo>job>creative>blogger
-, , johnf, demo>job>creative>writer
-, , johnf, demo>habit>diet
-, , johnf, demo>habit>exercise
-, , jake, demo>job>coach
-, , jake, demo>job>entrepreneur
-, , jake, demo>habit>writing
-, , jake, demo>habit>wakeing-up
-, 38, johnf, demo>age
-, 43, jake, demo>age
+Uses up band, , jon, tracking
+Researches online, , jon, challenges>active>Google
+Researches online, , jon, challenges>passive>blogs
+Might share with familiar group, 1, jon, sharing>group
+Reinforcing the Why, , jon, motivation
+Consequences to not changing, , jon, motivation
+Reads Tony Robbins, , jon, challenges>passive>reading
+, 38, nigel, demo>job>productivity-coach
+, , nigel, habit>business>focus
+, , nigel, habit>business>regular-time
+Uses Way of Life (iPhone), , nigel, tracking
+Created Personal System, 5, nigel, tracking
+Has online mentors, 3, nigel, accountability>online
+, , nigel, tracking>journal
+Reports to a friend via email, 5, nigel, accountability>friend
+, 33, mayura, demo>job>entrepreneur
+, 33, mayura, demo>job>homeless
+, 33, mayura, demo>job>student
+, , mayura, habit>procrastination
+, , mayura, habit>momentum
+Bad group discouraging, , mayura, sharing
+Wants same stage group, , mayura, sharing>same-stage
+Looked for meetups, 5, mayura, accountability>online
+Reads bios and non-fiction, 1, mayura, challenges>passive>reading
+Reads bios and non-fiction, 1, mayura, motivation
+Night shifts, , mayura, challenges
+Tracks distractions, , mayura, tracking>journal
+, 30, andy, demo>job>sports-coach
+, 30, andy, habit>organisation
+, 30, andy, habit>meditation
+Clients stuck with environmantal challenges, , andy, challenges>active>generate-solutions
+Clients stuck with environmantal challenges, , andy, challenges>active>build-flexibility
+Clients reach turning point when considering not changing, , andy, motivation
+, , andy, accountability>partner
+, 43, jaked, demo>job>blogger
+, 43, jaked, demo>job>entrepreneur
+, 43, jaked, demo>job>writer
+, 43, jaked, demo>job>investor
+, , jaked, habit>writing
+, 1, jaked, accountability>partner
+, 45, larse, demo>job>writer
+, 45, larse, demo>job>blogger
+
+
